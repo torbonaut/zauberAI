@@ -15,6 +15,8 @@ export class CalculationService {
     // define object attribute, key value pair for boats    
     
     constructor() {
+        // regex to identify boat names, min length 3 chars, max length 14 chars, only letters and numbers
+        
     }
 
     public calculate(): number {
@@ -30,6 +32,7 @@ export class CalculationService {
         const lastNames$ = of('Müller', 'Schmidt', 'Schneider');
         // observable that combines the first and last names and emits every 10 seconds
 
+        
         // subscribe and console log the result
 
     }

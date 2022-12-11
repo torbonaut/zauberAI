@@ -1,1 +1,3 @@
-// angular service crud rest api for clients
+import { Injectable } from "@angular/core";
+
+// create angular http service create, read, list, update, delete the REST clients resource
