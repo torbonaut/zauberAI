@@ -213,7 +213,7 @@ layout: center
 
 ---
 
-# Vision
+# Vision - automate repetetive tasks
 
 ## Frontend
 
