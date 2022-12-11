@@ -97,9 +97,9 @@ layout: default
 
 - not yet able to understand code in its entirety (generating vs understanding code)
 - not yet good enough to assist with complex functions
-- trained via GitHub, can provide mediocre code quality
+- trained via GitHub, can provide mediocre code quality (can be disabled)
 - relying too much on codex produced code without human review
-- copyright issues not yet fully legally judged (trained by GitHub code ...)
+- copyright issues not yet fully legally judged (trained by GitHub code ..., can be disabled)
 - personal and sensitive information leaks through code? (using public AI systems)
 
 ## assist, don't replace
@@ -269,6 +269,7 @@ layout: two-cols
 
 # interesting reads
 
+- [European Artifical Intelligence Act](https://artificialintelligenceact.eu/)
 - [Application of Deep Learning in Front-end Web Development (HTML + CSS)](https://becominghuman.ai/application-of-deep-learning-in-front-end-web-development-html-css-b7ef744705f3)
 - [What’s the Difference Between Deep Learning Training and Inference?](https://blogs.nvidia.com/blog/2016/08/22/difference-deep-learning-training-inference-ai/)
 - [How you can train an AI to convert your design mockups into HTML and CSS](https://www.freecodecamp.org/news/how-you-can-train-an-ai-to-convert-your-design-mockups-into-html-and-css-cc7afd82fed4)
