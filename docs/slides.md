@@ -11,7 +11,7 @@ info: |
   ## zauberAI - Introduction on improving development productivity with artificial intelligence
 
 layout: image-right
-image: https://source.unsplash.com/U3sOwViXhkY/800x600
+image: ./images/ai-robot.jpg
 class: left-column
 ---
 
@@ -31,11 +31,15 @@ Presenter Notes ...
 
 ---
 layout: center
+class: center-all
 ---
 
 # GPT-3
 
 ## all over the media these days ...
+
+<img alt="GPT-3 A million in less than a week" src="/images/twitter.jpg" class="m-10 h-60" />
+
 
 ---
 layout: default
@@ -280,7 +284,7 @@ layout: two-cols
 - [Characteristics and limitations of Azure OpenAI Service](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/characteristics-and-limitations)
 - [Copilot: GitHub’s AI Tool Speeds Up Development, but Comes with Risks](https://rewind.com/blog/copilot-github-ai-tool-security-risks/)
 - [Is GitHub Copilot A Threat To Developers?](https://blog.openreplay.com/is-github-copilot-a-threat-to-developers/)
-- [GitHub Copilot Isn't Worth the Risk](https://www.kolide.com/blog/github-copilot-isn-t-worth-the-risk)
+- [ChatGPT schummelt: Erfindet Quellen, die gar nicht existieren](https://futurezone.at/science/chatgpt-wissenschaft-forschung-quellen-universitaet-fake-news/402255681)
 - [Risk Assessment of GitHub Copilot](https://gist.github.com/0xabad1dea/be18e11beb2e12433d93475d72016902)
 - [Is GitHub Copilot a blessing, or a curse?](https://gist.github.com/0xabad1dea/be18e11beb2e12433d93475d72016902)
 

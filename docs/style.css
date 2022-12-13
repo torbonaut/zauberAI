@@ -52,3 +52,7 @@ ul ul {
     list-style: disc !important;
     list-style-position: inside !important;
 }
+
+.center-all {
+    text-align: center;
+}
